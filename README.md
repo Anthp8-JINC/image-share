@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Web Applicaiton Link : [AI NEWS APP](https://admiring-tereshkova-3e6766.netlify.app)
+Web Applicaiton Link : [Image Share](https://jinc-imageshare.uc.r.appspot.com/Login)
 
 ## Available Scripts
 
